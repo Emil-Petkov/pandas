@@ -64,17 +64,3 @@ print(df)
 filtered_df = df[(df['Age'] > 15) & (df['Town'] == 'Sofia')]  # -> filtered rows where 'Age' > 15 and 'Town' is 'Sofia'
 print(filtered_df)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
